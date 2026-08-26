@@ -1,4 +1,4 @@
-# NeetCode Solutions — @CL-Buchan
+# My NeetCode Solutions
 
 Welcome. 
 This repository contains my submissions for NeetCode problems, specifically the NeetCode-150 roadmap.
@@ -26,3 +26,7 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
     submission-1.<ext>   ← second submission
     ...
 ```
+
+---
+
+Each submission is automatically committed, and pushed from NeetCode to this repo.
